@@ -6,5 +6,6 @@ public class user {
         System.out.println("sss");
         System.out.println("ssks");
         System.out.println("asdads");
+        System.out.println("hot");
     }
 }
